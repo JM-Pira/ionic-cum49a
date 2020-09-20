@@ -1,5 +1,6 @@
 ion-content {
   background: linear-gradient(to top, #ffefba, #ffffff);
+  text-align: center
 }
 
 h2{
@@ -8,5 +9,5 @@ h2{
 
 p {
   font-family: 'Verdana', 'Geneva', 'Tahoma', 'sans-serif';
-  text-align: justify
+  text-align: center
 }
