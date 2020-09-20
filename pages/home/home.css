@@ -11,3 +11,8 @@ p {
   font-family: 'Verdana', 'Geneva', 'Tahoma', 'sans-serif';
   text-align: center
 }
+
+img {
+  max-width: 50%;
+  height: auto;
+}
